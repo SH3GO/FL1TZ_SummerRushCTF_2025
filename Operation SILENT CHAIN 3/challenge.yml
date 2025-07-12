@@ -1,0 +1,20 @@
+name: "Operation SILENT CHAIN 3"
+author: "SH3G0"
+category: osint
+description: |-
+
+David Holmes is just one link in the chain. Field intelligence suggests he’s connected 
+to a larger corporate network quietly enabling Silent Chain’s operations in Syria. 
+Analysts believe the company he works for is not only aware of these activities but directly involved.
+Your next mission: identify the individual at the top of this organization. Follow Holmes’s professional footprint and technical contributions. 
+The answer lies with those who know where to look.
+
+Flag:FL1TZ{Firstname_Lastname}
+
+
+    **author**: SH3G0
+
+flags:
+  - FL1TZ{Richard_Vance}
+
+

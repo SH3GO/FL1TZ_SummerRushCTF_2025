@@ -10,7 +10,8 @@ Last week, during a raid on a Silent Chain safehouse in northern Syria, CIRU rec
 intercepted radio chatter, and logistics updates. Buried in the chaos is a critical codeword, a failsafe left behind by a careless operative. 
 Intelligence suggests this codeword is the key to accessing Silent Chain’s fallback systems and may expose high-value targets and their next strike plans.
 your mission is clear: comb through the logs, identify the codeword 
-Flag:FL1TZ{codeword}
+
+Flag_Format:FL1TZ{codeword}
 
 
 

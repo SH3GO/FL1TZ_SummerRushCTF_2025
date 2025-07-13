@@ -1,0 +1,17 @@
+name: "Operation SILENT CHAIN 5"
+author: "SH3G0"
+category: osint
+description: |-
+
+
+Flag Format :FL1TZ{codeword}
+
+
+
+    **author**: SH3G0
+
+flags:
+  - FL1TZ{}
+
+
+

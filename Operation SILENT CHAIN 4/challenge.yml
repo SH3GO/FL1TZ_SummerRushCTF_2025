@@ -3,13 +3,20 @@ author: "SH3G0"
 category: osint
 description: |-
 
+**INTELLIGENCE REPORT 5/6
+New intelligence confirms Richard Vance’s direct involvement in Silent Chain’s logistics network. 
+As AstraLink’s CEO, he authorized a high-priority air transfer under the guise of humanitarian aid. 
+Leaked schedules suggest he may have even boarded the flight himself to discreetly inspect operations on the ground. 
+The aircraft is believed to have departed from an AstraLink-partnered hub in Europe. 
+Using the recovered details, identify the aircraft’s registered owner and its manufacturer serial number to expose 
+the logistical backbone of Silent Chain’s next operation.
 
-Flag:FL1TZ{codeword}
+Flag_Format:FL1TZ{Airplane_Owner_SerialNumber}
 
     **author**: SH3G0
 
 flags:
-  - FL1TZ{}
+  - FL1TZ{Gulfstream_Aerospace_Corp_6424}
 
 files:
   - 

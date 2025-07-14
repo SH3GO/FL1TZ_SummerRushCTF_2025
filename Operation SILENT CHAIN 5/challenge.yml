@@ -3,15 +3,21 @@ author: "SH3G0"
 category: osint
 description: |-
 
+**INTELLIGENCE REPORT 6/6 
+The Gulfstream flight you tracked in the previous operation wasn’t just moving supplies—it delivered key Silent Chain operatives into Syria. 
+Hours later, a high-resolution satellite image from a CIRU reconnaissance pass captured activity at a remote staging zone suspected 
+to be their primary base of operations.
+All intelligence points here. This is the final link in Silent Chain’s network. 
+Locate their stronghold, confirm its coordinates, and pave the way for CIRU’s decisive strike. 
+The success of this mission and countless lives depends on you.
 
-Flag Format :FL1TZ{codeword}
-
+Flag format: FL1TZ{latitude_longitude}
 
 
     **author**: SH3G0
 
 flags:
-  - FL1TZ{}
+  - FL1TZ{35.611226_36.123452}
 
 
 

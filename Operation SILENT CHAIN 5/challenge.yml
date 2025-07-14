@@ -19,5 +19,8 @@ Flag format: FL1TZ{latitude_longitude}
 flags:
   - FL1TZ{35.611226_36.123452}
 
+files:
+  - handout/opsat_blackbird_v3_INTEL-TS.jpg
+
 
 

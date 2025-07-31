@@ -13,13 +13,3 @@ your mission is clear: comb through the logs, identify the codeword
 
 Flag_Format:FL1TZ{codeword}
 
-
-
-    **author**: SH3G0
-
-flags:
-  - FL1TZ{SC_Alpha15}
-
-files:
-  - handout/FIELD_INTEL_LOGS_2025.pdf 
-

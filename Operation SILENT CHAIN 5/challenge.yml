@@ -14,13 +14,3 @@ The success of this mission and countless lives depends on you.
 Flag format: FL1TZ{latitude_longitude}
 
 
-    **author**: SH3G0
-
-flags:
-  - FL1TZ{35.611226_36.123452}
-
-files:
-  - handout/opsat_blackbird_v3_INTEL-TS.jpg
-
-
-

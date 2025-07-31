@@ -13,10 +13,4 @@ the logistical backbone of Silent Chain’s next operation.
 
 Flag_Format:FL1TZ{Airplane_Owner_SerialNumber}
 
-    **author**: SH3G0
-
-flags:
-  - FL1TZ{Gulfstream_Aerospace_Corp_6424}
-
-files:
-  - handout/Email.txt
+    

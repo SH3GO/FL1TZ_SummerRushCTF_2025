@@ -11,12 +11,3 @@ Identifying this alias is critical to tracing the group’s digital footprint.
 
 Flag_Format:FL1TZ{@alias)
 
-    **author**: SH3G0
-
-flags:
-  - FL1TZ{@syriaobserver}
-
-files:
-  - handout/ SC_LOGS_07-25.7z
-  
-

@@ -25,7 +25,7 @@ Task 4 : Operation SILENT CHAIN 3
 David Holmes’s GitHub account contained a repository AstraNet (Corporate Solution), which included a contact file revealing the CEO’s first name (Richard) and that his last name starts with V.
 <img width="998" height="665" alt="image" src="https://github.com/user-attachments/assets/5800799e-9a6b-403a-8a9e-6264e95fcc13" />
 Using David’s full name and the company name, and following the instruction to “follow Holmes’s professional footprint and technical contributions,” his LinkedIn account was located.
-<img width="975" height="672" alt="image" src="https://github.com/user-attachments/assets/0e507637-f448-4334-8355-2d2c51bc8859" />
+<img width="975" height="672" alt="image" src="https://github.com/user-attachments/assets/0e507637-f448-4334-8355-2d2c51bc8859" />  
 In the project section, the AstraNet repo was linked, along with a thank-you message for Mr. Vance, revealing the CEO’s full name: Richard Vance.
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/ba0ad5b2-13e5-4463-8740-01aa26b3b1bf" />  
 Flag: FL1TZ{Richard_Vance}

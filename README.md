@@ -1,4 +1,4 @@
-# FL1TZ_SummerRush_2025(Writeup)
+# FL1TZ_SummerRushCTF_2025(Writeup)
 
 
 

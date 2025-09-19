@@ -1,3 +1,6 @@
+#FL1TZ_SummerRush_2025(Writeup)
+
+
 Task 1 : Operation SILENT CHAIN 0   
 The raw patrol reports contained a suspicious string that stood out as Base64. 
 Decoding it revealed the hidden codeword.
